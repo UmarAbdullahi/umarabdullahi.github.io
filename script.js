@@ -275,8 +275,8 @@ const Projects = props => {
       title: "Issue Tracker.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/IssueTracker.jpg',
       tech: "js node css",
-      link: "https://yagoestevez-issue-tracker.glitch.me/",
-      repo: "https://github.com/yagoestevez/fcc-issue-tracker" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using Node, Express, MongoDB, JS + jQuery, CSS + Bootstrap and Pug."),
     React.createElement("p", null, "Yet another full-stack app to save and manage technical issues to be fixed.")),
@@ -487,9 +487,9 @@ const Contact = props => {
     React.createElement("p", { className: "separator" }),
     React.createElement("p", { className: "subtitle" }, "Please, use the form below or send an email to ",
     '',
-    React.createElement("span", { className: "mail" }, "web",
+    React.createElement("span", { className: "mail" }, "u.abdullahi001",
 
-    React.createElement("i", { className: "fas fa-at at" }), "yagoestevez",
+    React.createElement("i", { className: "fas fa-at at" }), "gmail",
 
     React.createElement("i", { className: "fas fa-circle dot" }), "com"), ":")),
 
@@ -521,7 +521,7 @@ const Footer = props => {
     React.createElement("footer", null,
     React.createElement("div", { className: "wrapper" },
     React.createElement("h3", null, "THANKS FOR VISITING"),
-    React.createElement("p", null, "\xA9 ", new Date().getFullYear(), " Yago Est\xE9vez."),
+    React.createElement("p", null, "\xA9 ", new Date().getFullYear(), " Umar Abdullahi."),
     React.createElement(SocialLinks, null))));
 
 
@@ -539,7 +539,7 @@ const SocialLinks = props => {
   return (
     React.createElement("div", { className: "social" },
     React.createElement("a", {
-      href: "https://twitter.com/yagoestevez",
+      href: "https://twitter.com/umarabdullahi_",
       target: "_blank",
       rel: "noopener noreferrer",
       title: "Link to author's Twitter profile" },
@@ -549,7 +549,7 @@ const SocialLinks = props => {
 
     React.createElement("a", {
       id: "profile-link",
-      href: "https://github.com/yagoestevez",
+      href: "https://github.com/umarabdullahi",
       target: "_blank",
       rel: "noopener noreferrer",
       title: "Link to author's GitHub Profile" },
@@ -558,7 +558,7 @@ const SocialLinks = props => {
     React.createElement("i", { className: "fab fa-github" })),
 
     React.createElement("a", {
-      href: "https://codepen.io/yagoestevez",
+      href: "https://codepen.io/umarabdullahi",
       target: "_blank",
       rel: "noopener noreferrer",
       title: "Link to author's Codepen Profile" },
