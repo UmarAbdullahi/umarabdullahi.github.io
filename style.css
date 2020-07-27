@@ -822,7 +822,7 @@ a:active {
   -webkit-clip-path: polygon(0 0, 20% 5%, 100% 0, 100% 100%, 80% 95%, 0 100%);
           clip-path: polygon(0 0, 20% 5%, 100% 0, 100% 100%, 80% 95%, 0 100%);
   z-index: 5;
-  background: #fafafa url(https://user-images.githubusercontent.com/5554283/88596932-1077a080-d05e-11ea-81a5-24b518b4ea4d.jpg) center right no-repeat;
+  background: #fafafa url(https://user-images.githubusercontent.com/5554283/88597377-073b0380-d05f-11ea-904c-d7671e93c7a0.jpg) center right no-repeat;
   background-attachment: fixed;
 }
 
