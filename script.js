@@ -1,4 +1,4 @@
-function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;} // Made by Yago Estévez (Twitter: @yagoestevez.com)
+function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;} // Made by Umar (Twitter: @UmarAbdullahi_)
 
 
 /***********************
@@ -48,9 +48,9 @@ const Nav = props => {
     React.createElement(React.Fragment, null,
     React.createElement("nav", { id: "navbar" },
     React.createElement("div", { className: "nav-wrapper" },
-    React.createElement("p", { className: "brand" }, "yago",
+    React.createElement("p", { className: "brand" }, "umar",
 
-    React.createElement("strong", null, "est\xE9vez")),
+    React.createElement("strong", null, "ABDULLAHI")),
 
     React.createElement("a", {
       onClick: props.toggleMenu,
@@ -110,12 +110,12 @@ const About = props => {
     React.createElement("p", { className: "separator" })),
 
     React.createElement("div", { className: "desc full" },
-    React.createElement("h4", { className: "subtitle" }, "My name is Yago."),
-    React.createElement("p", null, "I am a web developer and UX designer based in the beautiful west coast of Spain, Galicia."),
+    React.createElement("h4", { className: "subtitle" }, "My name is Umar."),
+    React.createElement("p", null, "I am a web developer and UX designer based in the beautiful city of Abuja, Nigeria."),
 
 
 
-    React.createElement("p", null, "I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love photography, a hobby I'm taking along since the good old film cameras. Oh, and rice with milk; I have a passion for rice with milk!")),
+    React.createElement("p", null, "I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love suya, a food I'm aggressive and passionate about. Oh, and rice with milk; I have a passion for rice with milk!")),
 
 
 
@@ -128,12 +128,12 @@ const About = props => {
 
     React.createElement("div", { className: "desc" },
     React.createElement("h4", { className: "subtitle" }, "I'm a programmer."),
-    React.createElement("p", null, "For the front-end I usually work with Javascript, either standalone or including popular frameworks like ReactJS and VueJS. I also make the web pretty by using Sass, CSS and, whenever needed, any of their friends: Bootstrap, Bulma, etc."),
+    React.createElement("p", null, "For the front-end I usually work with Javascript, either standalone or including popular frameworks like ReactJS and VueJS. I also make the web pretty by using Sass, CSS and, whenever needed, any of their friends: Bootstrap, Tailwind, etc."),
 
 
 
 
-    React.createElement("p", null, "For the back-end I also work with Javascript (NodeJS, Express, MongoDB, etc). But, of course, whenever the project requires PHP, I do PHP as well (Wordpress, Laravel, etc).")),
+    React.createElement("p", null, "For the back-end I also work with Javascript (NodeJS, Express, MongoDB etc). But, of course, whenever the project requires PHP, I do PHP as well (Wordpress, Laravel, etc).")),
 
 
 
