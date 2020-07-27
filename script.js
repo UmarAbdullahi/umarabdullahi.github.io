@@ -115,7 +115,7 @@ const About = props => {
 
 
 
-    React.createElement("p", null, "I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love suya, a food I'm aggressive and passionate about. Oh, and rice with milk; I have a passion for rice with milk!")),
+    React.createElement("p", null, "I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love suya, in fact I really love suya. I once built a full stack MERN travel agency and was paid with suya!")),
 
 
 
