@@ -229,31 +229,31 @@ const Projects = props => {
 
     React.createElement("div", { className: "projects-wrapper" },
     React.createElement(Project, {
-      title: "Anonymous Message Board.",
+      title: "Fantom Travels.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/AnonMsgBoard.jpg',
       tech: "js css react node",
-      link: "https://yagoestevez-anon-msg-board.glitch.me/",
-      repo: "https://github.com/yagoestevez/anonymous-message-board" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using Node, Express, MongoDB, CSS + Bulma, React.js and React Router."),
 
 
-    React.createElement("p", null, "This is a full-stack website that I made which lets the users read and post anonymous messages and replies.")),
+    React.createElement("p", null, "This is a full-stack travel agency I built. ")),
 
 
 
 
     React.createElement(Project, {
-      title: "Stock Price Checker.",
+      title: "HireMan",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/StockPriceChecker.jpg',
       tech: "js node css",
-      link: "https://yagoestevez-stock-price-checker.glitch.me/",
-      repo: "https://github.com/yagoestevez/fcc-stock-price-checker" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using Node, Express, MongoDB, JS + jQuery + Axios, CSS + Bootstrap and Pug."),
 
 
-    React.createElement("p", null, "Another full-stack website to check the current value of any requested stock in the market.")),
+    React.createElement("p", null, "Another full-stack website to search for Artisans nearby")),
 
 
 
@@ -262,8 +262,8 @@ const Projects = props => {
       title: "Personal Library.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/PersonalLibrary.jpg',
       tech: "js node css",
-      link: "https://yagoestevez-personal-library.glitch.me/",
-      repo: "https://github.com/yagoestevez/fcc-personal-library" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using Node, Express, MongoDB, JS + jQuery, CSS + Bootstrap and Pug."),
     React.createElement("p", null, "A full-stack website to store book titles and comments to each book into a remote database.")),
@@ -285,8 +285,8 @@ const Projects = props => {
       title: "Metric-Imperial Converter.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/MetricImperialConverter.jpg',
       tech: "js node css",
-      link: "https://yagoestevez-metric-imperial-converter.glitch.me/",
-      repo: "https://github.com/yagoestevez/fcc-metric-imperial-converter/" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using Node, Express, JS + jQuery, CSS + Bootstrap and Pug."),
     React.createElement("p", null, "Another full-stack for converting values from the Internation System of Units (Metric) into the imperial units.")),
@@ -298,8 +298,8 @@ const Projects = props => {
       title: "URL Shortener Microservice.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/Cortala.jpg',
       tech: "js node css",
-      link: "https://cortala.glitch.me/example",
-      repo: "https://github.com/yagoestevez/cortala" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using Node, Express, CSS + Bootstrap and Pug."),
     React.createElement("p", null, "A microservice which takes a raw URL and makes it a short link to make it easy to sent it through the Internet.")),
@@ -311,8 +311,8 @@ const Projects = props => {
       title: "Exercise Tracker.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/ExerciseTracker.jpg',
       tech: "js vue node css",
-      link: "https://yagoestevez-exercise-tracker.glitch.me",
-      repo: "https://github.com/yagoestevez/exercise-tracker" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using Node, Express, VueJS + Vue Router and CSS + Bootstrap."),
     React.createElement("p", null, "A service which lets the users save their daily exercise (or anything) into a log for them to check it later.")),
@@ -324,8 +324,8 @@ const Projects = props => {
       title: "Bar Chart.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/BarChart.jpg',
       tech: "js d3 css",
-      link: "https://codepen.io/yagoestevez/full/wxjmrB/",
-      repo: "https://github.com/yagoestevez/fcc-barchart" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using CSS, JS and D3.js."),
     React.createElement("p", null, "A bar chart representing the evolution of the US GDP.")),
@@ -334,8 +334,8 @@ const Projects = props => {
       title: "Treemap Diagram.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/TreemapDiagram.jpg',
       tech: "js d3 css",
-      link: "https://codepen.io/yagoestevez/full/bjZygz/",
-      repo: "https://github.com/yagoestevez/fcc-treemap-diagram" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using CSS, JS and D3.js."),
     React.createElement("p", null, "A treemap diagram representing groups of pledges and sales from a particular category.")),
@@ -346,8 +346,8 @@ const Projects = props => {
       title: "Choropleth Map.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/ChoroplethMap.jpg',
       tech: "js d3 css",
-      link: "https://codepen.io/yagoestevez/full/NBeaWK/",
-      repo: "https://github.com/yagoestevez/fcc-choropleth-map" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using CSS, JS and D3.js."),
     React.createElement("p", null, "A choropleth map representing the educational attainment by county in the U.S.")),
@@ -356,8 +356,8 @@ const Projects = props => {
       title: "Random Quoting Machine.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/QuotingMachine.jpg',
       tech: "js vue css",
-      link: "https://codepen.io/yagoestevez/full/bxgEyd/",
-      repo: "https://github.com/yagoestevez/random-quoting-machine" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using VueJS, Axios and CSS + Bootstrap."),
     React.createElement("p", null, "A random quoting app which retrieves pictures and quotes from two different APIs.")),
@@ -366,8 +366,8 @@ const Projects = props => {
       title: "Calculator.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/Calculator.jpg',
       tech: "js react css",
-      link: "https://codepen.io/yagoestevez/full/ERVONM/",
-      repo: "https://github.com/yagoestevez/the-calcoolator" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using React and CSS."),
     React.createElement("p", null, "A project on which I built a virtual calculator with its usual features.")),
@@ -376,8 +376,8 @@ const Projects = props => {
       title: "Pomodoro Timer.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/TomateTimer.jpg',
       tech: "js react css",
-      link: "https://codepen.io/yagoestevez/full/dqJGVa",
-      repo: "https://github.com/yagoestevez/tomate-time" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using React, CSS and lots of SVG."),
     React.createElement("p", null, "A cute and animated Pomodoro clock to help the users improve their productivity.")),
@@ -386,8 +386,8 @@ const Projects = props => {
       title: "TicTacToe Game.",
       img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/TicTacToe.jpg',
       tech: "js react css",
-      link: "https://codepen.io/yagoestevez/full/KRevzB/",
-      repo: "https://github.com/yagoestevez/TicTacToe" },
+      link: "https://github.com/umarabdullahi",
+      repo: "https://github.com/umarabdullahi" },
 
     React.createElement("small", null, "Built using React, CSS and SVG."),
     React.createElement("p", null, "A TicTacToe game with a basic AI algorithm made for the legacy front-end projects on FreeCodeCamp.")),
