@@ -218,9 +218,9 @@ const Projects = props => {
     React.createElement("h3", { className: "title" }, "My Works"),
     React.createElement("p", { className: "separator" }),
     React.createElement("p", { className: "subtitle" }, "Here's a list of ",
-    React.createElement("u", null, "most"), " of the projects I've been working on lately. All of these were built during my coding camp adventure on",
+    React.createElement("u", null, "most"), " of the projects I've been working on lately.",
     ' ',
-    React.createElement("a", { href: "https://www.freecodecamp.org/", target: "_blank", rel: "noopener noreferrer" }, "freeCodeCamp"), ", where I've been coding for almost 7 months non-stop until I completed all the projects required to get my Full-Stack Developer certification.")),
+    React.createElement("a", { href: "https://www.freecodecamp.org/", target: "_blank", rel: "noopener noreferrer" }, ""), "")),
 
 
 
